@@ -23,7 +23,6 @@ I'm passionate about building intelligent applications using **Artificial Intell
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### AI / ML
 
@@ -34,38 +33,6 @@ I'm passionate about building intelligent applications using **Artificial Intell
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-### Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🚀 MeetingPilot
-
-AI-powered meeting assistant that transcribes meetings, generates summaries, extracts action items, and answers questions from transcripts.
-
-### 🐱 Cat Gesture
-
-Real-time hand gesture recognition application built with MediaPipe, OpenCV, and Streamlit.
-
-### 🧠 AI & ML Learning Repository
-
-A collection of notebooks covering:
-
-* Data Preprocessing
-* Feature Engineering
-* NLP
-* Machine Learning
-* Deep Learning
-* Generative AI
-
----
 
 ## 📈 GitHub Stats
 
