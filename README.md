@@ -1,1 +1,107 @@
+# Hi there 👋, I'm Vansh Khanna
 
+### 🤖 AI Engineer | Machine Learning Enthusiast | Open Source Learner
+
+I'm passionate about building intelligent applications using **Artificial Intelligence**, **Machine Learning**, and **Generative AI**. I enjoy transforming ideas into practical projects and continuously learning new technologies in the AI ecosystem.
+
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech Information Technology Student
+* 🤖 Focused on **Artificial Intelligence & Machine Learning**
+* 🌱 Currently exploring **LLMs, RAG, LangChain, LangGraph, and Agentic AI**
+* 💡 Interested in NLP, Computer Vision, Deep Learning, and Data Science
+* 🛠️ Building AI-powered applications with Python
+* 📚 Always learning and contributing to open source
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### AI / ML
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+### Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 MeetingPilot
+
+AI-powered meeting assistant that transcribes meetings, generates summaries, extracts action items, and answers questions from transcripts.
+
+### 🐱 Cat Gesture
+
+Real-time hand gesture recognition application built with MediaPipe, OpenCV, and Streamlit.
+
+### 🧠 AI & ML Learning Repository
+
+A collection of notebooks covering:
+
+* Data Preprocessing
+* Feature Engineering
+* NLP
+* Machine Learning
+* Deep Learning
+* Generative AI
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devbyvansh&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbyvansh&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyvansh&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌟 Current Goals
+
+* ✅ Master Machine Learning
+* ✅ Build production-ready AI applications
+* ✅ Learn Agentic AI
+* ✅ Contribute to Open Source
+* ✅ Publish impactful AI projects
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 Portfolio: https://vanshkhannaportfolio.netlify.app/
+* 💻 GitHub: https://github.com/devbyvansh
+* 🔗 LinkedIn: https://www.linkedin.com/in/vanshkhanna09
+
+---
+
+## 💭 Quote
+
+> *"Keep learning, keep building, and let AI solve meaningful problems."*
+
+---
+
+⭐ **Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.**
