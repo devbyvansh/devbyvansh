@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vansh Khanna
+8# Hi there 👋, I'm Vansh Khanna
 
 ### 🤖 AI Engineer | Machine Learning Enthusiast | Open Source Learner
 
@@ -33,19 +33,6 @@ I'm passionate about building intelligent applications using **Artificial Intell
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devbyvansh&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbyvansh&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyvansh&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌟 Current Goals
 
