@@ -6,7 +6,7 @@ I'm passionate about building intelligent applications using **Artificial Intell
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 * 🎓 B.Tech Information Technology Student
 * 🤖 Focused on **Artificial Intelligence & Machine Learning**
