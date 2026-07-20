@@ -1,4 +1,4 @@
-8# Hi there 👋, I'm Vansh Khanna
+# Hi there 👋, I'm Vansh Khanna
 
 ### 🤖 AI Engineer | Machine Learning Enthusiast | Open Source Learner
 
