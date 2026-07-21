@@ -2,7 +2,7 @@
 
 ### 🤖 AI Engineer | Machine Learning Enthusiast | Open Source Learner
 
-I'm passionate about building intelligent applications using **Artificial Intelligence**, **Machine Learning**, and **Generative AI**. I enjoy transforming ideas into practical projects and continuously learning new technologies in the AI ecosystem.
+I'm passionate about building intelligent applications using **Artificial Intelligence**, **Machine Learning**, and **Generative AI**. I enjoy transforming ideas into practical projects and continuously learning new technologies in the AI ecosystem. 
 
 ---
 
