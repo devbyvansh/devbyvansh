@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vansh Khanna
+7# Hi there 👋, I'm Vansh Khanna
 
 ### 🤖 AI Engineer | Machine Learning Enthusiast | Open Source Learner
 
@@ -60,7 +60,7 @@ I'm passionate about building intelligent applications using **Artificial Intell
 ---
 
 ⭐ **Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.**          
-                                         
+                                             
                                                     
                                         
            
