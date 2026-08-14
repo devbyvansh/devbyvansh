@@ -61,6 +61,6 @@ I'm passionate about building intelligent applications using **Artificial Intell
 
 ⭐ **Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.**          
                                                 
-                                                    
+                                                       
                                         
                     
