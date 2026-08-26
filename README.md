@@ -51,7 +51,8 @@ I'm passionate about building intelligent applications using **Artificial Intell
 * 🔗 LinkedIn: https://www.linkedin.com/in/vanshkhanna09
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devbyvansh)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=devbyvansh&theme=radical)
+
 
 ## 💭 Quote
 
